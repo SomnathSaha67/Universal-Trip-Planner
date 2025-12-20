@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "amritsar-golden",
+    "title": "Amritsar - Golden Temple Pilgrimage",
+    "shortDescription": "Spiritual center with the Golden Temple and Punjabi culture",
+    "supportedStartingCities": ["Amritsar", "Delhi", "Chandigarh", "Ludhiana", "Jalandhar"],
+    "recommendedMinDays": 1,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 3000,
+    "approximateCostMax": 9000,
+    "interests": ["spirituality", "religion", "culture", "photography"],
+    "distanceKmFromCity": {
+      "Amritsar": 0,
+      "Delhi": 450,
+      "Chandigarh": 230,
+      "Ludhiana": 140,
+      "Jalandhar": 85
+    },
+    "timeHoursFromCity": {
+      "Amritsar": 0,
+      "Delhi": 7,
+      "Chandigarh": 3.5,
+      "Ludhiana": 2.5,
+      "Jalandhar": 1.5
+    },
+    "places": [
+      {"name": "Golden Temple", "description": "Most sacred Sikh gurudwara with magnificent architecture", "day": 1},
+      {"name": "Wagah Border", "description": "Dramatic border ceremony between India and Pakistan", "day": 1},
+      {"name": "Jallianwala Bagh", "description": "Historic site of independence struggle", "day": 2},
+      {"name": "Punjabi Cuisine", "description": "Authentic traditional Punjabi meals and sweets", "day": 2}
+    ]
+  },
+  {
+    "id": "taj-mahal-agra",
+    "title": "Taj Mahal & Agra Wonder",
+    "shortDescription": "Experience the world's most iconic monument and Mughal architecture",
+    "supportedStartingCities": ["Delhi", "Agra", "Gwalior", "Mathura", "Lucknow"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 15000,
+    "interests": ["heritage", "monuments", "photography", "history"],
+    "distanceKmFromCity": {
+      "Delhi": 206,
+      "Agra": 0,
+      "Gwalior": 118,
+      "Mathura": 60,
+      "Lucknow": 240
+    },
+    "timeHoursFromCity": {
+      "Delhi": 3.5,
+      "Agra": 0,
+      "Gwalior": 2,
+      "Mathura": 1.5,
+      "Lucknow": 4
+    },
+    "places": [
+      {
+        "name": "Taj Mahal",
+        "description": "Magnificent mausoleum and UNESCO World Heritage site",
+        "day": 1
+      },
+      {
+        "name": "Agra Fort",
+        "description": "Red sandstone fort with stunning views",
+        "day": 1
+      },
+      {
+        "name": "Mehtab Bagh",
+        "description": "Garden with moonlight view of Taj Mahal",
+        "day": 2
+      },
+      {
+        "name": "Local Markets",
+        "description": "Explore local handicrafts and cuisine",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "jaipur-pink-city",
+    "title": "Jaipur - The Pink City",
+    "shortDescription": "Discover royal palaces and vibrant culture of Rajasthan",
+    "supportedStartingCities": ["Delhi", "Jaipur", "Agra", "Gwalior", "Udaipur"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 6000,
+    "approximateCostMax": 18000,
+    "interests": ["heritage", "culture", "shopping", "photography"],
+    "distanceKmFromCity": {
+      "Delhi": 240,
+      "Jaipur": 0,
+      "Agra": 240,
+      "Gwalior": 350,
+      "Udaipur": 420
+    },
+    "timeHoursFromCity": {
+      "Delhi": 4,
+      "Jaipur": 0,
+      "Agra": 4,
+      "Gwalior": 5.5,
+      "Udaipur": 7
+    },
+    "places": [
+      {
+        "name": "City Palace",
+        "description": "Blend of Rajasthani and Mughal architecture",
+        "day": 1
+      },
+      {
+        "name": "Hawa Mahal",
+        "description": "Iconic pink sandstone structure with 953 small windows",
+        "day": 1
+      },
+      {
+        "name": "Jantar Mantar",
+        "description": "Ancient astronomical observation site",
+        "day": 2
+      },
+      {
+        "name": "Albert Hall Museum",
+        "description": "Museum with Indian and European exhibits",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "udaipur-lakes",
+    "title": "Udaipur - City of Lakes",
+    "shortDescription": "Romantic lakeside palaces and desert scenery",
+    "supportedStartingCities": ["Jaipur", "Udaipur", "Jodhpur", "Delhi", "Mumbai"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 7000,
+    "approximateCostMax": 20000,
+    "interests": ["heritage", "nature", "romance", "photography"],
+    "distanceKmFromCity": {
+      "Jaipur": 420,
+      "Udaipur": 0,
+      "Jodhpur": 250,
+      "Delhi": 680,
+      "Mumbai": 770
+    },
+    "timeHoursFromCity": {
+      "Jaipur": 7,
+      "Udaipur": 0,
+      "Jodhpur": 4,
+      "Delhi": 11,
+      "Mumbai": 12
+    },
+    "places": [
+      {
+        "name": "City Palace",
+        "description": "Majestic palace overlooking Lake Pichola",
+        "day": 1
+      },
+      {
+        "name": "Lake Pichola",
+        "description": "Scenic boat rides and water adventures",
+        "day": 1
+      },
+      {
+        "name": "Jag Mandir",
+        "description": "Island palace in the middle of the lake",
+        "day": 2
+      },
+      {
+        "name": "Sajjangarh Palace",
+        "description": "Monsoon Palace with panoramic views",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "varanasi-ganges",
+    "title": "Varanasi - Spiritual Gateway",
+    "shortDescription": "Experience spiritual awakening on the sacred Ganges River",
+    "supportedStartingCities": ["Lucknow", "Varanasi", "Delhi", "Allahabad", "Patna"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 4000,
+    "approximateCostMax": 12000,
+    "interests": ["spirituality", "culture", "religion", "photography"],
+    "distanceKmFromCity": {
+      "Lucknow": 270,
+      "Varanasi": 0,
+      "Delhi": 760,
+      "Allahabad": 130,
+      "Patna": 270
+    },
+    "timeHoursFromCity": {
+      "Lucknow": 4,
+      "Varanasi": 0,
+      "Delhi": 12,
+      "Allahabad": 2.5,
+      "Patna": 4.5
+    },
+    "places": [
+      {
+        "name": "Dashashwamedh Ghat",
+        "description": "Main ghat with aarti ceremony and cultural performances",
+        "day": 1
+      },
+      {
+        "name": "Ganges River Cruise",
+        "description": "Sunrise boat ride along the sacred river",
+        "day": 1
+      },
+      {
+        "name": "Kashi Vishwanath Temple",
+        "description": "One of Hinduism's holiest temples",
+        "day": 2
+      },
+      {
+        "name": "Local Bazaars",
+        "description": "Explore vibrant markets and street food",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "kerala-backwaters",
+    "title": "Kerala Backwaters Paradise",
+    "shortDescription": "Cruise through scenic backwaters and experience tropical paradise",
+    "supportedStartingCities": ["Kochi", "Thiruvananthapuram", "Alappuzha", "Thrissur", "Bangalore"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 5,
+    "approximateCostMin": 8000,
+    "approximateCostMax": 22000,
+    "interests": ["nature", "beaches", "backwaters", "ayurveda"],
+    "distanceKmFromCity": {
+      "Kochi": 60,
+      "Thiruvananthapuram": 180,
+      "Alappuzha": 0,
+      "Thrissur": 140,
+      "Bangalore": 500
+    },
+    "timeHoursFromCity": {
+      "Kochi": 1,
+      "Thiruvananthapuram": 3,
+      "Alappuzha": 0,
+      "Thrissur": 2.5,
+      "Bangalore": 8
+    },
+    "places": [
+      {
+        "name": "Houseboats on Backwaters",
+        "description": "Traditional Kerala boats with overnight stay",
+        "day": 1
+      },
+      {
+        "name": "Kumarakom Bird Sanctuary",
+        "description": "Home to migratory birds and water birds",
+        "day": 2
+      },
+      {
+        "name": "Alleppey Beach",
+        "description": "Golden sandy beaches and sunset views",
+        "day": 3
+      },
+      {
+        "name": "Ayurvedic Spa",
+        "description": "Traditional Kerala massage and wellness treatments",
+        "day": 3
+      }
+    ]
+  },
+  {
+    "id": "goa-beaches",
+    "title": "Goa - Beach Paradise",
+    "shortDescription": "Golden beaches, water sports, and vibrant nightlife",
+    "supportedStartingCities": ["Goa", "Bangalore", "Mumbai", "Pune", "Mangalore"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 5,
+    "approximateCostMin": 7000,
+    "approximateCostMax": 20000,
+    "interests": ["beaches", "water-sports", "nightlife", "food"],
+    "distanceKmFromCity": {
+      "Goa": 0,
+      "Bangalore": 600,
+      "Mumbai": 760,
+      "Pune": 550,
+      "Mangalore": 550
+    },
+    "timeHoursFromCity": {
+      "Goa": 0,
+      "Bangalore": 9,
+      "Mumbai": 12,
+      "Pune": 9,
+      "Mangalore": 9
+    },
+    "places": [
+      {
+        "name": "North Goa Beaches",
+        "description": "Baga, Calangute, and Anjuna beaches with vibrant atmosphere",
+        "day": 1
+      },
+      {
+        "name": "South Goa Beaches",
+        "description": "Palolem and Colva beaches - calm and peaceful",
+        "day": 2
+      },
+      {
+        "name": "Fort Aguada",
+        "description": "Historic 17th-century Portuguese fort",
+        "day": 2
+      },
+      {
+        "name": "Water Sports",
+        "description": "Parasailing, jet skiing, and banana boat rides",
+        "day": 3
+      }
+    ]
+  },
+  {
+    "id": "himachal-mountains",
+    "title": "Himachal Pradesh - Mountain Paradise",
+    "shortDescription": "Snow-capped peaks, adventure activities, and scenic beauty",
+    "supportedStartingCities": ["Delhi", "Chandigarh", "Shimla", "Manali", "Dharamshala"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 5,
+    "approximateCostMin": 6000,
+    "approximateCostMax": 18000,
+    "interests": ["adventure", "nature", "trekking", "photography"],
+    "distanceKmFromCity": {
+      "Delhi": 360,
+      "Chandigarh": 120,
+      "Shimla": 0,
+      "Manali": 220,
+      "Dharamshala": 250
+    },
+    "timeHoursFromCity": {
+      "Delhi": 6,
+      "Chandigarh": 2.5,
+      "Shimla": 0,
+      "Manali": 4,
+      "Dharamshala": 5
+    },
+    "places": [
+      {
+        "name": "Shimla Ridge Walk",
+        "description": "Scenic walking trail with colonial architecture",
+        "day": 1
+      },
+      {
+        "name": "Manali Valley",
+        "description": "Adventure capital with trekking and paragliding",
+        "day": 2
+      },
+      {
+        "name": "Rohtang Pass",
+        "description": "High mountain pass with snow and panoramic views",
+        "day": 2
+      },
+      {
+        "name": "Dharamshala Tea Gardens",
+        "description": "Serene tea plantations and hiking trails",
+        "day": 3
+      }
+    ]
+  },
+  {
+    "id": "mumbai-metropolis",
+    "title": "Mumbai - City of Dreams",
+    "shortDescription": "Bollywood glamour, colonial architecture, and vibrant energy",
+    "supportedStartingCities": ["Mumbai", "Pune", "Ahmedabad", "Goa", "Bangalore"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 15000,
+    "interests": ["city", "culture", "food", "entertainment"],
+    "distanceKmFromCity": {
+      "Mumbai": 0,
+      "Pune": 190,
+      "Ahmedabad": 540,
+      "Goa": 760,
+      "Bangalore": 980
+    },
+    "timeHoursFromCity": {
+      "Mumbai": 0,
+      "Pune": 3,
+      "Ahmedabad": 8,
+      "Goa": 12,
+      "Bangalore": 15
+    },
+    "places": [
+      {
+        "name": "Gateway of India",
+        "description": "Iconic monument with Arabian Sea views",
+        "day": 1
+      },
+      {
+        "name": "Marine Drive",
+        "description": "Famous waterfront promenade with night lights",
+        "day": 1
+      },
+      {
+        "name": "Bollywood Studio Tour",
+        "description": "Explore film production and Bollywood history",
+        "day": 2
+      },
+      {
+        "name": "Street Food Tour",
+        "description": "Authentic Mumbai food and local cuisine",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "rajasthan-desert",
+    "title": "Rajasthan Desert Safari",
+    "shortDescription": "Golden sand dunes, camel safaris, and desert traditions",
+    "supportedStartingCities": ["Jaipur", "Jodhpur", "Bikaner", "Delhi", "Agra"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 6000,
+    "approximateCostMax": 16000,
+    "interests": ["adventure", "nature", "culture", "desert"],
+    "distanceKmFromCity": {
+      "Jaipur": 250,
+      "Jodhpur": 350,
+      "Bikaner": 330,
+      "Delhi": 450,
+      "Agra": 500
+    },
+    "timeHoursFromCity": {
+      "Jaipur": 4,
+      "Jodhpur": 5.5,
+      "Bikaner": 5.5,
+      "Delhi": 7,
+      "Agra": 8
+    },
+    "places": [
+      {
+        "name": "Khimsar Dunes",
+        "description": "Golden sand dunes with camel safari experience",
+        "day": 1
+      },
+      {
+        "name": "Desert Camp",
+        "description": "Traditional stay with folk music and Rajasthani dinner",
+        "day": 1
+      },
+      {
+        "name": "Jodhpur Blue City",
+        "description": "Visit historic Mehrangarh Fort and blue-painted houses",
+        "day": 2
+      },
+      {
+        "name": "Bishnoi Village",
+        "description": "Experience local village life and wildlife",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "bengal-nature",
+    "title": "West Bengal - Culture & Nature",
+    "shortDescription": "Darjeeling tea gardens, Sundarbans wildlife, and Bengali culture",
+    "supportedStartingCities": ["Kolkata", "Darjeeling", "Siliguri", "Delhi", "Guwahati"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 5,
+    "approximateCostMin": 6000,
+    "approximateCostMax": 16000,
+    "interests": ["nature", "wildlife", "tea", "culture"],
+    "distanceKmFromCity": {
+      "Kolkata": 700,
+      "Darjeeling": 0,
+      "Siliguri": 80,
+      "Delhi": 1400,
+      "Guwahati": 620
+    },
+    "timeHoursFromCity": {
+      "Kolkata": 12,
+      "Darjeeling": 0,
+      "Siliguri": 2,
+      "Delhi": 20,
+      "Guwahati": 10
+    },
+    "places": [
+      {
+        "name": "Darjeeling Tea Gardens",
+        "description": "World-famous tea plantations with scenic views",
+        "day": 1
+      },
+      {
+        "name": "Tiger Hill Sunrise",
+        "description": "Stunning sunrise over Kanchenjunga peaks",
+        "day": 1
+      },
+      {
+        "name": "Sundarbans Mangrove",
+        "description": "UNESCO site with Bengal tigers and boat safari",
+        "day": 3
+      },
+      {
+        "name": "Local Cuisine",
+        "description": "Authentic Bengali food and sweets",
+        "day": 3
+      }
+    ]
+  },
+  {
+    "id": "hampi-ruins",
+    "title": "Hampi - Ancient Ruins Wonder",
+    "shortDescription": "UNESCO heritage site with spectacular temple ruins and boulders",
+    "supportedStartingCities": ["Bangalore", "Hyderabad", "Goa", "Mangalore", "Pune"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 4000,
+    "approximateCostMax": 10000,
+    "interests": ["heritage", "history", "architecture", "photography"],
+    "distanceKmFromCity": {
+      "Bangalore": 350,
+      "Hyderabad": 360,
+      "Goa": 450,
+      "Mangalore": 400,
+      "Pune": 550
+    },
+    "timeHoursFromCity": {
+      "Bangalore": 6,
+      "Hyderabad": 6,
+      "Goa": 7,
+      "Mangalore": 7,
+      "Pune": 9
+    },
+    "places": [
+      {
+        "name": "Virupaksha Temple",
+        "description": "Main temple with intricate stone carvings",
+        "day": 1
+      },
+      {
+        "name": "Hemakuta Hill",
+        "description": "Ancient temples on hilltop with scenic views",
+        "day": 1
+      },
+      {
+        "name": "Krishna Temple",
+        "description": "Beautiful temple with ornate pillars",
+        "day": 2
+      },
+      {
+        "name": "Tungabhadra River",
+        "description": "Scenic river with coracle rides and boulder formations",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "gujrat-culture",
+    "title": "Gujarat - Heritage & Art",
+    "shortDescription": "Ancient cities, textile tradition, and vibrant culture",
+    "supportedStartingCities": ["Ahmedabad", "Vadodara", "Rajkot", "Mumbai", "Delhi"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 13000,
+    "interests": ["culture", "heritage", "art", "food"],
+    "distanceKmFromCity": {
+      "Ahmedabad": 0,
+      "Vadodara": 110,
+      "Rajkot": 240,
+      "Mumbai": 540,
+      "Delhi": 900
+    },
+    "timeHoursFromCity": {
+      "Ahmedabad": 0,
+      "Vadodara": 2,
+      "Rajkot": 4,
+      "Mumbai": 8,
+      "Delhi": 14
+    },
+    "places": [
+      {
+        "name": "Sabarmati Ashram",
+        "description": "Gandhi's residence and independence movement site",
+        "day": 1
+      },
+      {
+        "name": "Calico Museum",
+        "description": "Historic textile museum in Vadodara",
+        "day": 1
+      },
+      {
+        "name": "Patan Patola Weaving",
+        "description": "Ancient double-ikat silk weaving tradition",
+        "day": 2
+      },
+      {
+        "name": "Kutch White Desert",
+        "description": "Salt marshes and traditional crafts",
+        "day": 3
+      }
+    ]
+  },
+  {
+    "id": "mysore-royal",
+    "title": "Mysore - Royal City",
+    "shortDescription": "Palace grandeur, coffee plantations, and historical charm",
+    "supportedStartingCities": ["Bangalore", "Mysore", "Coimbatore", "Kochi", "Hyderabad"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 4000,
+    "approximateCostMax": 11000,
+    "interests": ["heritage", "nature", "coffee", "culture"],
+    "distanceKmFromCity": {
+      "Bangalore": 140,
+      "Mysore": 0,
+      "Coimbatore": 150,
+      "Kochi": 400,
+      "Hyderabad": 600
+    },
+    "timeHoursFromCity": {
+      "Bangalore": 2.5,
+      "Mysore": 0,
+      "Coimbatore": 2.5,
+      "Kochi": 6,
+      "Hyderabad": 9
+    },
+    "places": [
+      {
+        "name": "Mysore Palace",
+        "description": "Grand Indo-Islamic architecture with royal history",
+        "day": 1
+      },
+      {
+        "name": "Chamundi Hill",
+        "description": "Temple on hilltop with panoramic views",
+        "day": 1
+      },
+      {
+        "name": "Coffee Plantation Tour",
+        "description": "Western Ghats plantations with tastings",
+        "day": 2
+      },
+      {
+        "name": "St. Philomena's Church",
+        "description": "Neo-Gothic architecture and heritage building",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "hyderabad-tech",
+    "title": "Hyderabad - Silicon Valley of India",
+    "shortDescription": "Modern tech city with ancient Charminar and Biryani culture",
+    "supportedStartingCities": ["Hyderabad", "Bangalore", "Goa", "Pune", "Chennai"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 4000,
+    "approximateCostMax": 10000,
+    "interests": ["city", "culture", "food", "history"],
+    "distanceKmFromCity": {
+      "Hyderabad": 0,
+      "Bangalore": 590,
+      "Goa": 700,
+      "Pune": 590,
+      "Chennai": 640
+    },
+    "timeHoursFromCity": {
+      "Hyderabad": 0,
+      "Bangalore": 9,
+      "Goa": 11,
+      "Pune": 9,
+      "Chennai": 10
+    },
+    "places": [
+      {
+        "name": "Charminar",
+        "description": "Historic monument and iconic symbol of Hyderabad",
+        "day": 1
+      },
+      {
+        "name": "Mecca Masjid",
+        "description": "Ancient mosque with intricate architecture",
+        "day": 1
+      },
+      {
+        "name": "Hussain Sagar Lake",
+        "description": "Scenic lake with boat rides and parks",
+        "day": 2
+      },
+      {
+        "name": "Biryani Food Tour",
+        "description": "Famous Hyderabadi biryani and local cuisine",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "jaisalmer-fort",
+    "title": "Jaisalmer - Golden Fort City",
+    "shortDescription": "Majestic sandstone fort and desert adventure",
+    "supportedStartingCities": ["Jaipur", "Jodhpur", "Bikaner", "Delhi", "Agra"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 13000,
+    "interests": ["heritage", "adventure", "desert", "architecture"],
+    "distanceKmFromCity": {
+      "Jaipur": 560,
+      "Jodhpur": 240,
+      "Bikaner": 330,
+      "Delhi": 780,
+      "Agra": 950
+    },
+    "timeHoursFromCity": {
+      "Jaipur": 9,
+      "Jodhpur": 4,
+      "Bikaner": 5.5,
+      "Delhi": 12,
+      "Agra": 15
+    },
+    "places": [
+      {
+        "name": "Jaisalmer Fort",
+        "description": "Golden-yellow sandstone fort with palace inside",
+        "day": 1
+      },
+      {
+        "name": "Sam Sand Dunes",
+        "description": "Desert landscape with camel safaris and dune camping",
+        "day": 1
+      },
+      {
+        "name": "Patwon Ki Haveli",
+        "description": "Ornate mansion with intricate marble work",
+        "day": 2
+      },
+      {
+        "name": "Desert Sunset",
+        "description": "Camel ride at sunset with folk music and dinner",
+        "day": 2
+      }
+    ]
+  },
+  {
+    "id": "odia-temple",
+    "title": "Odisha - Temple Trail",
+    "shortDescription": "Ancient temples, beaches, and tribal culture",
+    "supportedStartingCities": ["Bhubaneswar", "Cuttack", "Kolkata", "Hyderabad", "Bangalore"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 4000,
+    "approximateCostMax": 11000,
+    "interests": ["spirituality", "temples", "beach", "culture"],
+    "distanceKmFromCity": {
+      "Bhubaneswar": 0,
+      "Cuttack": 28,
+      "Kolkata": 450,
+      "Hyderabad": 750,
+      "Bangalore": 1400
+    },
+    "timeHoursFromCity": {
+      "Bhubaneswar": 0,
+      "Cuttack": 0.75,
+      "Kolkata": 8,
+      "Hyderabad": 12,
+      "Bangalore": 22
+    },
+    "places": [
+      {
+        "name": "Jagannath Temple",
+        "description": "Ancient temple with chariot festival and sacred rituals",
+        "day": 1
+      },
+      {
+        "name": "Puri Beach",
+        "description": "Sandy beach with lighthouse and temple views",
+        "day": 1
+      },
+      {
+        "name": "Konark Sun Temple",
+        "description": "UNESCO site with intricate stone carvings",
+        "day": 2
+      },
+      {
+        "name": "Chilika Lake",
+        "description": "Largest lagoon with bird sanctuary and fishing",
+        "day": 3
+      }
+    ]
+  },
+  {
+    "id": "kerala-spice",
+    "title": "Kerala Spice Coast Tour",
+    "shortDescription": "Ancient spice routes, cardamom hills, and plantation stays",
+    "supportedStartingCities": ["Kochi", "Thiruvananthapuram", "Coimbatore", "Bangalore", "Alappuzha"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 5,
+    "approximateCostMin": 7000,
+    "approximateCostMax": 18000,
+    "interests": ["nature", "spices", "food", "heritage"],
+    "distanceKmFromCity": {
+      "Kochi": 100,
+      "Thiruvananthapuram": 200,
+      "Coimbatore": 90,
+      "Bangalore": 450,
+      "Alappuzha": 150
+    },
+    "timeHoursFromCity": {
+      "Kochi": 2,
+      "Thiruvananthapuram": 3.5,
+      "Coimbatore": 2,
+      "Bangalore": 7,
+      "Alappuzha": 2.5
+    },
+    "places": [
+      {"name": "Spice Plantation Tour", "description": "Visit cardamom, pepper, and cinnamon estates", "day": 1},
+      {"name": "Munnar Tea Gardens", "description": "Rolling tea hills and scenic viewpoints", "day": 2},
+      {"name": "Cardamom Hill Trek", "description": "Hiking through spice plantations", "day": 3},
+      {"name": "Traditional Spice Market", "description": "Shop and learn about local spices", "day": 3}
+    ]
+  },
+  {
+    "id": "pushkar-fair",
+    "title": "Pushkar - Camel Fair & Holy City",
+    "shortDescription": "Colorful camel fair, spiritual temples, and desert culture",
+    "supportedStartingCities": ["Jaipur", "Ajmer", "Delhi", "Agra", "Pushkar"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 14000,
+    "interests": ["culture", "spirituality", "festival", "photography"],
+    "distanceKmFromCity": {
+      "Jaipur": 145,
+      "Ajmer": 52,
+      "Delhi": 390,
+      "Agra": 290,
+      "Pushkar": 0
+    },
+    "timeHoursFromCity": {
+      "Jaipur": 2.5,
+      "Ajmer": 1.5,
+      "Delhi": 6,
+      "Agra": 4.5,
+      "Pushkar": 0
+    },
+    "places": [
+      {"name": "Pushkar Camel Fair", "description": "Vibrant festival with camel trading and competitions", "day": 1},
+      {"name": "Brahma Temple", "description": "Rare temple dedicated to the creator deity", "day": 1},
+      {"name": "Pushkar Lake", "description": "Sacred lake with 52 ghats and temples around it", "day": 2},
+      {"name": "Craft Bazaar", "description": "Local artisans selling traditional handicrafts", "day": 2}
+    ]
+  },
+  {
+    "id": "lucknow-heritage",
+    "title": "Lucknow - City of Nawabs",
+    "shortDescription": "Mughal architecture, Awadhi cuisine, and cultural elegance",
+    "supportedStartingCities": ["Lucknow", "Delhi", "Kanpur", "Varanasi", "Agra"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 3500,
+    "approximateCostMax": 10000,
+    "interests": ["heritage", "culture", "food", "architecture"],
+    "distanceKmFromCity": {
+      "Lucknow": 0,
+      "Delhi": 500,
+      "Kanpur": 80,
+      "Varanasi": 270,
+      "Agra": 280
+    },
+    "timeHoursFromCity": {
+      "Lucknow": 0,
+      "Delhi": 8,
+      "Kanpur": 2,
+      "Varanasi": 5,
+      "Agra": 4.5
+    },
+    "places": [
+      {"name": "Bara Imambara", "description": "Magnificent 18th-century structure with intricate architecture", "day": 1},
+      {"name": "Chota Imambara", "description": "Pearl-like palace with stunning light displays", "day": 1},
+      {"name": "Rumi Darwaza", "description": "Iconic gateway with Mughal design", "day": 2},
+      {"name": "Awadhi Food Experience", "description": "Traditional Lucknow biryani and kebabs", "day": 2}
+    ]
+  },
+  {
+    "id": "srinagar-valley",
+    "title": "Srinagar - Valley of Kashmir",
+    "shortDescription": "Breathtaking Himalayan valley with gardens and houseboats",
+    "supportedStartingCities": ["Srinagar", "Delhi", "Chandigarh", "Shimla", "Amritsar"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 5,
+    "approximateCostMin": 8000,
+    "approximateCostMax": 20000,
+    "interests": ["nature", "adventure", "trekking", "photography"],
+    "distanceKmFromCity": {
+      "Srinagar": 0,
+      "Delhi": 900,
+      "Chandigarh": 650,
+      "Shimla": 550,
+      "Amritsar": 750
+    },
+    "timeHoursFromCity": {
+      "Srinagar": 0,
+      "Delhi": 14,
+      "Chandigarh": 10,
+      "Shimla": 9,
+      "Amritsar": 12
+    },
+    "places": [
+      {"name": "Dal Lake Houseboat", "description": "Traditional wooden boat stay on scenic lake", "day": 1},
+      {"name": "Mughal Gardens", "description": "Shalimar and Nishat gardens with terraced designs", "day": 2},
+      {"name": "Gulmarg", "description": "Meadow surrounded by pine forests and mountain views", "day": 3},
+      {"name": "Kashmir Handicrafts", "description": "Local carpets, shawls, and papier-mâché items", "day": 3}
+    ]
+  },
+  {
+    "id": "munnar-hills",
+    "title": "Munnar - Tea Country Paradise",
+    "shortDescription": "Lush tea gardens, scenic waterfalls, and cool hill stations",
+    "supportedStartingCities": ["Kochi", "Thiruvananthapuram", "Coimbatore", "Munnar", "Bangalore"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 12000,
+    "interests": ["nature", "tea", "trekking", "photography"],
+    "distanceKmFromCity": {
+      "Kochi": 140,
+      "Thiruvananthapuram": 270,
+      "Coimbatore": 100,
+      "Munnar": 0,
+      "Bangalore": 450
+    },
+    "timeHoursFromCity": {
+      "Kochi": 3,
+      "Thiruvananthapuram": 4.5,
+      "Coimbatore": 2.5,
+      "Munnar": 0,
+      "Bangalore": 8
+    },
+    "places": [
+      {"name": "Tea Plantation Walk", "description": "Trek through emerald green tea gardens", "day": 1},
+      {"name": "Attukal Waterfalls", "description": "Scenic waterfalls surrounded by forest", "day": 1},
+      {"name": "Kundala Lake", "description": "Artificial lake with boating and scenic views", "day": 2},
+      {"name": "Tea Factory Visit", "description": "Learn tea processing from leaf to cup", "day": 2}
+    ]
+  },
+  {
+    "id": "orchha-temples",
+    "title": "Orchha - Medieval Kingdom",
+    "shortDescription": "Ancient temples, majestic forts, and riverside beauty",
+    "supportedStartingCities": ["Gwalior", "Jhansi", "Delhi", "Agra", "Lucknow"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 3500,
+    "approximateCostMax": 9000,
+    "interests": ["heritage", "temples", "history", "photography"],
+    "distanceKmFromCity": {
+      "Gwalior": 120,
+      "Jhansi": 35,
+      "Delhi": 400,
+      "Agra": 280,
+      "Lucknow": 350
+    },
+    "timeHoursFromCity": {
+      "Gwalior": 2.5,
+      "Jhansi": 1,
+      "Delhi": 6.5,
+      "Agra": 4.5,
+      "Lucknow": 5.5
+    },
+    "places": [
+      {"name": "Orchha Fort", "description": "Architectural marvel with royal apartments", "day": 1},
+      {"name": "Raj Mahal", "description": "Palace with stunning riverside location", "day": 1},
+      {"name": "Chaturbhuj Temple", "description": "Massive temple with intricate carvings", "day": 2},
+      {"name": "Betwa River Rafting", "description": "Peaceful river adventure through green landscape", "day": 2}
+    ]
+  },
+  {
+    "id": "meghalaya-living",
+    "title": "Meghalaya - Living Root Bridges",
+    "shortDescription": "World's wettest place with unique living root bridges and caves",
+    "supportedStartingCities": ["Guwahati", "Shillong", "Delhi", "Kolkata", "Silchar"],
+    "recommendedMinDays": 3,
+    "recommendedMaxDays": 4,
+    "approximateCostMin": 6000,
+    "approximateCostMax": 15000,
+    "interests": ["nature", "adventure", "trekking", "photography"],
+    "distanceKmFromCity": {
+      "Guwahati": 100,
+      "Shillong": 60,
+      "Delhi": 2000,
+      "Kolkata": 600,
+      "Silchar": 250
+    },
+    "timeHoursFromCity": {
+      "Guwahati": 2,
+      "Shillong": 1.5,
+      "Delhi": 32,
+      "Kolkata": 10,
+      "Silchar": 4
+    },
+    "places": [
+      {"name": "Living Root Bridges", "description": "Ancient bridges made from tree roots", "day": 1},
+      {"name": "Dawki River", "description": "Crystal clear river with boat rides", "day": 2},
+      {"name": "Mawsmai Caves", "description": "Limestone caves with stalactites and stalagmites", "day": 2},
+      {"name": "Cherrapunji Tea", "description": "Tea plantations in world's wettest place", "day": 3}
+    ]
+  },
+  {
+    "id": "andaman-islands",
+    "title": "Andaman Islands - Tropical Paradise",
+    "shortDescription": "White sand beaches, water sports, and island adventures",
+    "supportedStartingCities": ["Port Blair", "Delhi", "Kolkata", "Chennai", "Bangalore"],
+    "recommendedMinDays": 4,
+    "recommendedMaxDays": 6,
+    "approximateCostMin": 15000,
+    "approximateCostMax": 35000,
+    "interests": ["beaches", "water-sports", "nature", "adventure"],
+    "distanceKmFromCity": {
+      "Port Blair": 0,
+      "Delhi": 3000,
+      "Kolkata": 1200,
+      "Chennai": 1200,
+      "Bangalore": 1400
+    },
+    "timeHoursFromCity": {
+      "Port Blair": 0,
+      "Delhi": 6,
+      "Kolkata": 4,
+      "Chennai": 3,
+      "Bangalore": 3
+    },
+    "places": [
+      {"name": "Radhanagar Beach", "description": "Stunning white sand beach with crystal clear water", "day": 1},
+      {"name": "Scuba Diving", "description": "Coral reefs and colorful marine life", "day": 2},
+      {"name": "Island Hopping", "description": "Visit Neil Island and Havelock Island", "day": 3},
+      {"name": "Cellular Jail", "description": "Historic jail museum with independence history", "day": 3}
+    ]
+  },
+  {
+    "id": "south-india-classic",
+    "title": "South India Classic Tour",
+    "shortDescription": "Temple towns, backwaters, and cultural heritage of the South",
+    "supportedStartingCities": ["Chennai", "Bangalore", "Hyderabad", "Kochi", "Thiruvananthapuram"],
+    "recommendedMinDays": 5,
+    "recommendedMaxDays": 7,
+    "approximateCostMin": 10000,
+    "approximateCostMax": 25000,
+    "interests": ["heritage", "temples", "culture", "nature"],
+    "distanceKmFromCity": {
+      "Chennai": 350,
+      "Bangalore": 300,
+      "Hyderabad": 600,
+      "Kochi": 200,
+      "Thiruvananthapuram": 180
+    },
+    "timeHoursFromCity": {
+      "Chennai": 6,
+      "Bangalore": 5,
+      "Hyderabad": 10,
+      "Kochi": 3,
+      "Thiruvananthapuram": 3
+    },
+    "places": [
+      {"name": "Meenakshi Temple", "description": "Ancient temple in Madurai with intricate sculptures", "day": 1},
+      {"name": "Thanjavur Palace", "description": "Historic palace with royal treasures", "day": 2},
+      {"name": "Mahabalipuram Temples", "description": "Shore temples and rock carvings", "day": 3},
+      {"name": "Backwater Cruise", "description": "Scenic Kerala backwaters and houseboats", "day": 5}
+    ]
+  },
+  {
+    "id": "nainital-lakes",
+    "title": "Nainital - Lake District",
+    "shortDescription": "Alpine lakes, Mall Road, and mountain views",
+    "supportedStartingCities": ["Delhi", "Lucknow", "Chandigarh", "Bareilly", "Nainital"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 4000,
+    "approximateCostMax": 10000,
+    "interests": ["nature", "adventure", "trekking", "photography"],
+    "distanceKmFromCity": {
+      "Delhi": 340,
+      "Lucknow": 450,
+      "Chandigarh": 400,
+      "Bareilly": 70,
+      "Nainital": 0
+    },
+    "timeHoursFromCity": {
+      "Delhi": 5.5,
+      "Lucknow": 7,
+      "Chandigarh": 6.5,
+      "Bareilly": 2,
+      "Nainital": 0
+    },
+    "places": [
+      {"name": "Naini Lake", "description": "Scenic alpine lake with boating facilities", "day": 1},
+      {"name": "Mall Road", "description": "Colonial shopping street with cafes and shops", "day": 1},
+      {"name": "Naina Devi Temple", "description": "Temple on hilltop with lake views", "day": 2},
+      {"name": "Tibet House Museum", "description": "Buddhist art and Tibetan culture center", "day": 2}
+    ]
+  },
+  {
+    "id": "ahmedabad-sabarmati",
+    "title": "Ahmedabad - Gandhi's City",
+    "shortDescription": "Independence heritage, textile bazaars, and cultural awakening",
+    "supportedStartingCities": ["Ahmedabad", "Mumbai", "Delhi", "Vadodara", "Rajkot"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 3500,
+    "approximateCostMax": 9000,
+    "interests": ["heritage", "history", "culture", "spirituality"],
+    "distanceKmFromCity": {
+      "Ahmedabad": 0,
+      "Mumbai": 530,
+      "Delhi": 900,
+      "Vadodara": 110,
+      "Rajkot": 240
+    },
+    "timeHoursFromCity": {
+      "Ahmedabad": 0,
+      "Mumbai": 8,
+      "Delhi": 14,
+      "Vadodara": 2,
+      "Rajkot": 4
+    },
+    "places": [
+      {"name": "Sabarmati Ashram", "description": "Gandhi's residence and museum", "day": 1},
+      {"name": "Bhadra Fort", "description": "15th-century fort in city center", "day": 1},
+      {"name": "Textile Museum", "description": "History of Indian textiles and weaving", "day": 2},
+      {"name": "Old City Walk", "description": "Heritage lanes and traditional architecture", "day": 2}
+    ]
+  },
+  {
+    "id": "khajuraho-temples",
+    "title": "Khajuraho - Temple Sculpture Tour",
+    "shortDescription": "UNESCO temples with intricate sculptures and historical importance",
+    "supportedStartingCities": ["Delhi", "Agra", "Gwalior", "Lucknow", "Bangalore"],
+    "recommendedMinDays": 2,
+    "recommendedMaxDays": 3,
+    "approximateCostMin": 5000,
+    "approximateCostMax": 12000,
+    "interests": ["heritage", "temples", "sculpture", "history"],
+    "distanceKmFromCity": {
+      "Delhi": 600,
+      "Agra": 400,
+      "Gwalior": 280,
+      "Lucknow": 500,
+      "Bangalore": 1200
+    },
+    "timeHoursFromCity": {
+      "Delhi": 10,
+      "Agra": 6,
+      "Gwalior": 4.5,
+      "Lucknow": 8,
+      "Bangalore": 18
+    },
+    "places": [
+      {"name": "Western Temples", "description": "Main temple complex with carved sculptures", "day": 1},
+      {"name": "Eastern Temples", "description": "Jain temples with intricate details", "day": 1},
+      {"name": "Southern Temples", "description": "Lesser-known temples with unique designs", "day": 2},
+      {"name": "Sculpture Museum", "description": "Collection of temple sculptures and artifacts", "day": 2}
+    ]
+  }
+]
